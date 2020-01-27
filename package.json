@@ -1,0 +1,24 @@
+{
+  "name": "message-until-morning",
+  "version": "1.0.0",
+  "description": "Bu uygulama Umut Can Arda tarafından geliştirilmiştir",
+  "main": "index.js",
+  "dependencies": {
+    "facebook-chat-api": "^1.6.1",
+    "nodemon": "^2.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FlySquare/message-until-morning.git"
+  },
+  "author": "Umut Can Arda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FlySquare/message-until-morning/issues"
+  },
+  "homepage": "https://github.com/FlySquare/message-until-morning#readme"
+}
