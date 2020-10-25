@@ -1,3 +1,3 @@
 NodeJS ve messenger API ile oluşturduğum mesaj botu.
 
-![alt text](https://hizliresim.com/zUjxrW.png)
+![alt text](https://i.hizliresim.com/zUjxrW.png)
